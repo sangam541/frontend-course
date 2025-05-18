@@ -1,2 +1,2 @@
-Name: Sangam
+Name: Thapa Sangam
 Course: Front-End Development
